@@ -1,0 +1,16 @@
+/* JavaFX CS * S - Leave this comment until you have at least create one rule which uses -fx-Property
+ */
+ 
+ 
+.loadBtn
+{
+	-fx-background-color: brown;
+	-fx-text-fill: white;
+	 -fx-font-size:18pt;
+}
+.loadBtn:hover
+{
+	-fx-background-color: white;
+	-fx-text-fill: brown;
+	-fx-cursor: hand ;
+}
